@@ -11,4 +11,3 @@ UIImage.
 
 And with the help of Auto Layout all borders are set. Thus, the design can be seen in all screens.
 
-Снимок экрана 2023-07-24 в 11.12.09.png
